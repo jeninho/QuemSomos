@@ -1,0 +1,14 @@
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\QuemSomos.dll.config
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\QuemSomos.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\QuemSomos.pdb
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\Newtonsoft.Json.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Net.Http.Formatting.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Web.Http.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Web.Http.WebHost.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\Newtonsoft.Json.xml
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Net.Http.Formatting.xml
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Web.Http.xml
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\bin\System.Web.Http.WebHost.xml
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\obj\Debug\QuemSomos.csprojResolveAssemblyReference.cache
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\obj\Debug\QuemSomos.dll
+C:\Users\TITAN\Dropbox\QuemSomos\QuemSomos\obj\Debug\QuemSomos.pdb
